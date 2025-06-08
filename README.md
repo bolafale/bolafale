@@ -1,9 +1,12 @@
-## hej beetches
-i am um, a person or sumthong
-here are somethongs about me!!!!
+## hej beetches!
+#i am um, a person or sumthong
+
+here are somethongs about _me_!!!!
 - i am a terrible programmer
 - i dont know anything
-- i enjoy my life
+- *i enjoy my life*
+- i am a pig
+- not like, a pig in a bad way, but like a _literal_ pig. on a computer.
 
 <!--
 **bolafale/bolafale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
