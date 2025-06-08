@@ -1,4 +1,9 @@
-## Hi there 👋
+## hej beetches
+i am um, a person or sumthong
+here are somethongs about me!!!!
+- i am a terrible programmer
+- i dont know anything
+- i enjoy my life
 
 <!--
 **bolafale/bolafale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
