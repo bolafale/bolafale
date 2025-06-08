@@ -1,5 +1,5 @@
 ## hej beetches!
-#i am um, a person or sumthong
+i am um, a person or sumthong
 
 here are somethongs about _me_!!!!
 - i am a terrible programmer
