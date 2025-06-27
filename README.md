@@ -8,6 +8,8 @@ here are somethongs about _me_!!!!
 - i am a pig
 - not like, a pig in a bad way, but like a _literal_ pig. on a computer.
 
+everything uploaded in this account is supposed to be **satire**, so please don't take anything in it seriously
+
 <!--
 **bolafale/bolafale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
